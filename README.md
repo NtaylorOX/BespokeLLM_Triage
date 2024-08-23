@@ -1,3 +1,6 @@
+
+# DISCLAIMER
+This repository is a work in progress and is not yet ready for public use. We are working on cleaning up the code and adding more documentation. Please check back later for updates.
 # OHFT_triage
 This repo provides the skeleton code to train and evaluate 
 
